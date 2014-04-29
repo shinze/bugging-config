@@ -1,0 +1,7 @@
+{
+  "name": "gulp-config",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-minify-css": "^0.3.2"
+  }
+}
